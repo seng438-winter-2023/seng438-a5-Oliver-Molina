@@ -1,0 +1,44 @@
+Failure Report
+Number:1Time (min):8Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:2Time (min):8Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:3Time (min):8Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:4Time (min):8Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:5Time (min):40Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:6Time (min):40Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:7Time (min):40Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <hr />)Failure Fixed?YesComments:
+Number:8Time (min):48Severity:3Failure SummaryAdding invalid address for new station does not allow to “find optimal fuel cost”Failure Fixed?YesComments:
+Number:9Time (min):56Severity:4Failure SummaryNo type in Javascript tagsFailure Fixed?YesComments:
+Number:10Time (min):80Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:11Time (min):80Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <hr />)Failure Fixed?YesComments:
+Number:12Time (min):80Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:13Time (min):80Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:14Time (min):80Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:15Time (min):80Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <hr />)Failure Fixed?YesComments:
+Number:16Time (min):80Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:17Time (min):112Severity:2Failure SummaryAdding a gas price greater than 3 digits is accepted at input but is not able to be stored in databaseFailure Fixed?YesComments:
+Number:18Time (min):120Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <hr />)Failure Fixed?YesComments:
+Number:19Time (min):136Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:20Time (min):136Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:21Time (min):176Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:22Time (min):192Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <hr />)Failure Fixed?YesComments:
+Number:23Time (min):192Severity:2Failure SummaryAdding a gas price of a value less than 0 is accepted, however this is economically an impossibilityFailure Fixed?YesComments:
+Number:24Time (min):208Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:25Time (min):240Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <hr />)Failure Fixed?YesComments:
+Number:26Time (min):240Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:27Time (min):248Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:28Time (min):272Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:29Time (min):272Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <hr />)Failure Fixed?YesComments:
+Number:30Time (min):288Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:31Time (min):296Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <hr />)Failure Fixed?YesComments:
+Number:32Time (min):320Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:33Time (min):336Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:34Time (min):352Severity:4Failure SummaryPassing user address to optimal fuel calculator only passes up to first “space” in address, so address is incompleteFailure Fixed?YesComments:
+Number:35Time (min):368Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <hr />)Failure Fixed?YesComments:
+Number:36Time (min):392Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:37Time (min):416Severity:2Failure SummaryAdding a gas price greater than 3 digits is accepted at input but is not able to be stored in databaseFailure Fixed?YesComments:
+Number:38Time (min):440Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <hr />)Failure Fixed?YesComments:
+Number:39Time (min):448Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:40Time (min):528Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:41Time (min):640Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+Number:42Time (min):712Severity:4Failure SummaryInvalid HTML syntax found (did not need closing tag <br />)Failure Fixed?YesComments:
+
