@@ -7,7 +7,8 @@
 | Student Names:  |   |
 |      Oliver Molina           |   |
 |      Quentin Jennings           |   |
-|                 |   |
+|      Nour Jaffan           |   |
+|      Danny Picazo           |   |
 
 # Introduction
 In the previous assignments, we have learned how to properly test a system through exploratory, white-box, and black-box testing as well as how to test a web system's GUI. Our previous assignments mostly concerned automated unit testing but with this assignment our focus is shifted into reliability acceptance testing as we determine the quality of a system. Our group has been tasked with assessing a software's quality using both Reliability Growth Testing and a Reliability Demonstration Chart in order to analyse the system's Mean Time To Failure (MTTF) and reliability through failure counts.
