@@ -28,12 +28,20 @@ Following will be an analysis of both reliability analysis tools and a discussio
 ![](./media/report/Laplace.png)
 
 # Assessment Using Reliability Demonstration Chart 
-![](./media/report/RDC.png)
+## RDC MTTF min
+![](./media/report/RDC_MTTFmin.png)
+## RDC MTTF half min
+![](./media/report/RDC_MTTFhalfmin.png)
+## RDC MTTF double min
+![](./media/report/RDC_MTTFdoublemin.png)
 # 
 
 # Comparison of Results
-I don't know
+Using reliability growth testing, the models with the smalles log likelihood are the most accurate thus the S model and DW3 models would be the best to use.
 
+From our Laplace Test statistic on dataset3 we found that the best range of testable data is wihin the values of 3 - 15.
+
+Next we ran the RDC tests on Dataset3 and setting the MTTF to its minimum for crossing into the acceptability range. When setting the MTTF to half that value it remained in the continue tests range indicating we would need to run more tests and have a larger dataset to have clear and decisive results. Finally setting the MTTF to half its minimum value we see that it very quickly passes into the range of acceptability.
 # Discussion on Similarity and Differences of the Two Techniques
 What
 # How the team work/effort was divided and managed
