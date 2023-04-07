@@ -32,6 +32,7 @@ Following will be an analysis of both reliability analysis tools and a discussio
 
 # Comparison of Results
 I don't know
+
 # Discussion on Similarity and Differences of the Two Techniques
 What
 # How the team work/effort was divided and managed
