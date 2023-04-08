@@ -43,7 +43,17 @@ From our Laplace Test statistic on dataset3 we found that the best range of test
 
 Next we ran the RDC tests on Dataset3 and setting the MTTF to its minimum for crossing into the acceptability range. When setting the MTTF to half that value it remained in the continue tests range indicating we would need to run more tests and have a larger dataset to have clear and decisive results. Finally setting the MTTF to half its minimum value we see that it very quickly passes into the range of acceptability.
 # Discussion on Similarity and Differences of the Two Techniques
-What
+Similarities:
+
+* RDC and RGT aim to improve the quality of the software product.
+* Both techniques require the use of a test plan to guide the testing process.
+* Both techniques involve the selection of test cases based on certain criteria.
+
+Differences:
+
+* RDC is a statistical technique that compares the results of a control group and an experimental group, while RGT is a testing approach that prioritizes test cases based on the potential risk of failure.
+* RDC is typically used to evaluate the effectiveness of a particular software testing approach or tool, while RGT is used to identify high-risk areas of the software product that require more testing effort.
+* RDC requires a larger sample size to ensure statistical significance, while RGT can be applied with a smaller set of test cases as long as they are prioritized based on risk.
 # How the team work/effort was divided and managed
 Since no unit test development or programming was required for this, we didn't really need any methodological approach to dividing team work so we simply held regular meetings in both analysis and report writing. All members contributed to the assignment and work was divided equally between members.
 # 
